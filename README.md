@@ -1,5 +1,5 @@
 # adb-butler
-adb-butler is one of the components of [android-farm](https://github.com/agoda-com/android-farm) that runs adb server as a side-car container in kubernetes deployment of OpenSTF providers.
+adb-butler is one of the components of [android-farm](https://github.com/dhrumeshgandhi/android-farm) that runs adb server as a side-car container in kubernetes deployment of OpenSTF providers.
 
 # Features
 - self-healing
